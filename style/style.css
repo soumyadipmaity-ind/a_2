@@ -570,6 +570,31 @@ line-height: 1.625rem;
 width: 800px;
         }
 
+        .customers p{
+            color: #5A5A5D;
+
+font-family: Mulish;
+font-size: 1rem;
+font-style: normal;
+font-weight: 400;
+line-height: 1.625rem; 
+        }
+        .customers h5{color: #131318;
+            font-family: Mulish;
+            font-size: 1.5rem;
+            font-style: normal;
+            font-weight: 800;
+            line-height: normal;}
+
+            .feedback h5{color: #131318;
+                font-family: Mulish;
+                font-size: 1.5rem;
+                font-style: normal;
+                font-weight: 800;
+                line-height: normal;}
+    
+                
+
         .line{
 
            background-color: #584e4c;
